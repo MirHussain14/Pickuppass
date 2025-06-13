@@ -138,7 +138,7 @@ const Page = () => {
           <div className="content-wrapper">
             <section className="hero-section">
               <div className="icon-container">
-                <img width={400} src="../public/radical-candor_featured2@2x-1560x760.png" alt="" />
+                <img width={400} src="./src/radical-candor_featured2@2x-1560x760.png" alt="" />
               </div>
 
               <div className="title-section">
